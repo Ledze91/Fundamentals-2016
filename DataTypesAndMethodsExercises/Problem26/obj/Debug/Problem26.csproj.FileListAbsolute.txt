@@ -1,0 +1,6 @@
+C:\Users\WorkGroup\Documents\Visual Studio 2015\Projects\DataTypesAndMethodsExercises\Problem26\bin\Debug\Problem26.exe.config
+C:\Users\WorkGroup\Documents\Visual Studio 2015\Projects\DataTypesAndMethodsExercises\Problem26\bin\Debug\Problem26.exe
+C:\Users\WorkGroup\Documents\Visual Studio 2015\Projects\DataTypesAndMethodsExercises\Problem26\bin\Debug\Problem26.pdb
+C:\Users\WorkGroup\Documents\Visual Studio 2015\Projects\DataTypesAndMethodsExercises\Problem26\obj\Debug\Problem26.csprojResolveAssemblyReference.cache
+C:\Users\WorkGroup\Documents\Visual Studio 2015\Projects\DataTypesAndMethodsExercises\Problem26\obj\Debug\Problem26.exe
+C:\Users\WorkGroup\Documents\Visual Studio 2015\Projects\DataTypesAndMethodsExercises\Problem26\obj\Debug\Problem26.pdb

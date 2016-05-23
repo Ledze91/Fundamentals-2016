@@ -1,0 +1,5 @@
+C:\Users\WorkGroup\Documents\Visual Studio 2015\Projects\DataTypesAndMethodsExercises\Problem19\bin\Debug\Problem19.exe.config
+C:\Users\WorkGroup\Documents\Visual Studio 2015\Projects\DataTypesAndMethodsExercises\Problem19\bin\Debug\Problem19.exe
+C:\Users\WorkGroup\Documents\Visual Studio 2015\Projects\DataTypesAndMethodsExercises\Problem19\bin\Debug\Problem19.pdb
+C:\Users\WorkGroup\Documents\Visual Studio 2015\Projects\DataTypesAndMethodsExercises\Problem19\obj\Debug\Problem19.exe
+C:\Users\WorkGroup\Documents\Visual Studio 2015\Projects\DataTypesAndMethodsExercises\Problem19\obj\Debug\Problem19.pdb

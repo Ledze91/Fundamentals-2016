@@ -1,0 +1,5 @@
+c:\users\workgroup\documents\visual studio 2015\Projects\DataTypesAndMethodsExercises\Problem04\bin\Debug\Problem04.exe.config
+c:\users\workgroup\documents\visual studio 2015\Projects\DataTypesAndMethodsExercises\Problem04\bin\Debug\Problem04.exe
+c:\users\workgroup\documents\visual studio 2015\Projects\DataTypesAndMethodsExercises\Problem04\bin\Debug\Problem04.pdb
+c:\users\workgroup\documents\visual studio 2015\Projects\DataTypesAndMethodsExercises\Problem04\obj\Debug\Problem04.exe
+c:\users\workgroup\documents\visual studio 2015\Projects\DataTypesAndMethodsExercises\Problem04\obj\Debug\Problem04.pdb

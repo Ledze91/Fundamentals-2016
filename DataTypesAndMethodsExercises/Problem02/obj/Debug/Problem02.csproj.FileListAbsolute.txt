@@ -1,0 +1,6 @@
+C:\Users\WorkGroup\Documents\Visual Studio 2015\Projects\DataTypesAndMethodsExercises\DataTypesAndMethodsExercises\bin\Debug\DataTypesAndMethodsExercises.exe.config
+C:\Users\WorkGroup\Documents\Visual Studio 2015\Projects\DataTypesAndMethodsExercises\DataTypesAndMethodsExercises\obj\Debug\DataTypesAndMethodsExercises.exe
+C:\Users\WorkGroup\Documents\Visual Studio 2015\Projects\DataTypesAndMethodsExercises\DataTypesAndMethodsExercises\obj\Debug\DataTypesAndMethodsExercises.pdb
+C:\Users\WorkGroup\Documents\Visual Studio 2015\Projects\DataTypesAndMethodsExercises\Problem02\bin\Debug\DataTypesAndMethodsExercises.exe.config
+C:\Users\WorkGroup\Documents\Visual Studio 2015\Projects\DataTypesAndMethodsExercises\Problem02\obj\Debug\DataTypesAndMethodsExercises.exe
+C:\Users\WorkGroup\Documents\Visual Studio 2015\Projects\DataTypesAndMethodsExercises\Problem02\obj\Debug\DataTypesAndMethodsExercises.pdb

@@ -1,0 +1,5 @@
+C:\Users\WorkGroup\Documents\Visual Studio 2015\Projects\DataTypesAndMethodsExercises\Problem24\bin\Debug\Problem24.exe.config
+C:\Users\WorkGroup\Documents\Visual Studio 2015\Projects\DataTypesAndMethodsExercises\Problem24\bin\Debug\Problem24.exe
+C:\Users\WorkGroup\Documents\Visual Studio 2015\Projects\DataTypesAndMethodsExercises\Problem24\bin\Debug\Problem24.pdb
+C:\Users\WorkGroup\Documents\Visual Studio 2015\Projects\DataTypesAndMethodsExercises\Problem24\obj\Debug\Problem24.exe
+C:\Users\WorkGroup\Documents\Visual Studio 2015\Projects\DataTypesAndMethodsExercises\Problem24\obj\Debug\Problem24.pdb
